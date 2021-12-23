@@ -39,9 +39,10 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 
 ## Tradable Cryptocurrencies Table
 
-<img width="641" alt="4" src="https://user-images.githubusercontent.com/88418201/147300245-c552387f-1dfc-4918-a416-e6668c6441aa.png">
+<img width="753" alt="6" src="https://user-images.githubusercontent.com/88418201/147300532-9f9e6829-8de8-4822-92c5-d42f672ef4e8.png">
 
-## 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+
+## 2D-Scatter plot with TotalCoinsMined vs TotalCoinSupply
 
 <img width="695" alt="5" src="https://user-images.githubusercontent.com/88418201/147300293-e7888263-09bd-4948-9572-17beea7f57bb.png">
 
